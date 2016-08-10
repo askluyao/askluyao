@@ -8,6 +8,9 @@ bigimg: http://7xposz.com1.z0.glb.clouddn.com/path.jpg
 
 <!-- more -->
 
+【原文】[How to be an effective CTO](https://www.rajiv.com/blog/2016/08/02/how-to-be-effective-as-a-cto/) <br />
+【翻译】陆遥（微信：zluyuer）
+
 > 前方高能，重要说明：别把「不要过度使用 Generic」误解成「不用 Generic」，也别把「不要写一些不必要的 Wrapper」误解成「不写任何 Wrapper」。我只是在讲 over-engineering 这个事，只是在提倡不搞野路子编程。
 
 ### 套路1：攻城狮自认为比业务人员聪明
