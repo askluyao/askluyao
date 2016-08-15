@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何成为一名卓有成效的CTO（上）
+title: 如何成为一名卓有成效的CTO
 ---
 
 一枚CTO日常工作由文化（Cultrue）、技术（Technology）和运营（Operations）三者组成，缩写合起来正好是CTO。扎实的领域知识、老司机的丰富经验、持续不断的学习是基本要求，三方面互相补充和强化。
